@@ -1,0 +1,14 @@
+
+.image_fan{
+    border-radius: 50rem;
+    color: blue;
+
+}
+
+.image{
+   
+    transform: rotate(2500deg);
+    transition: 10s;
+    border-radius: 50rem;
+
+}
